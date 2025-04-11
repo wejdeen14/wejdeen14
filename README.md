@@ -1,6 +1,8 @@
 # 👋 Bonjour, je suis **Wejden Ben Yaagoub**
 
 🎓 Développeuse Web & Multimédia 
+## 💬 Me poser des questions sur :
+**Spring Boot**, **React**, **Angular**,**Node.js**
 
 
 ## 📫 Me contacter :
