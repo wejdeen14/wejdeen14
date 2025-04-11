@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Bonjour, je suis **Wejden Ben Yaagoub**
 
-<!--
-**wejdeen14/wejdeen14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Développeuse Web & Multimédia 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Me contacter :
+- 📧 benyaagoubwejden@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wejdenbenyaagoub/)  
+- 🌍 [GitHub](https://github.com/wejdeen14)  
+
+## 🛠️ Compétences techniques
+
+### Langages :
+`C``Java` `PHP` `JavaScript` `TypeScript` `PL/SQL`
+
+### Front-End :
+`HTML` `CSS` `XML` `Bootstrap` `Tailwind` `jQuery` `React.js` `Angular`
+
+### Back-End :
+`Spring` `Spring Boot` `Node.js` `Symfony` `JWT`
+
+### Bases de données :
+`MySQL` `PostgreSQL` `MongoDB` `Oracle` `SQL`
+
+### Outils & DevOps :
+`Git` `GitHub` `GitLab` `Postman` `Jira` `Trello` `Docker` `PowerBI` `Jenkins`
+
+
+
